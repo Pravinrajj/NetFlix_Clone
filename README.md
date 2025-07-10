@@ -247,6 +247,86 @@ h3{
     transform: scale(1.15);
     transition: all 0.3s ease-in-out;
 }
+
+@media (max-width: 600px) {
+    * {
+        font-size: 20px;
+    }
+
+    .head {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .nav {
+        flex-direction: column;
+        align-items: center;
+        margin-left: 0;
+    }
+
+    .log {
+        margin-left: 0;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .logo {
+        justify-content: center;
+    }
+
+    a {
+        margin: 10px;
+        font-size: medium;
+    }
+
+    .login-btn {
+        width: 100%;
+        font-size: 16px;
+    }
+
+    .content {
+        margin-top: 80px;
+        padding: 20px;
+    }
+
+    .tagline, h2 {
+        width: 100%;
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .btns {
+        margin-left: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .btn {
+        width: 80%;
+        margin: 5px 0;
+    }
+
+    .cards {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card {
+        width: 80%;
+        margin-bottom: 20px;
+    }
+
+    .card > img {
+        width: 100%;
+        height: auto;
+    }
+
+    h3 {
+        margin-left: 0;
+        text-align: center;
+    }
+}
 ```
 ## Output:
 <img width="1917" height="860" alt="image" src="https://github.com/user-attachments/assets/c938055e-df43-44be-8d2e-d3bb9b2cacdf" />
