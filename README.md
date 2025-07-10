@@ -329,7 +329,7 @@ h3{
 }
 ```
 ## Output:
-<img width="1917" height="860" alt="image" src="https://github.com/user-attachments/assets/c938055e-df43-44be-8d2e-d3bb9b2cacdf" />
+<img width="1918" height="864" alt="image" src="https://github.com/user-attachments/assets/cc9a407a-55e8-4e54-90ae-dde5ec50eff9" />
 
 ## Result:
 A modern, responsive navigation bar using CSS Flexbox, mimicking real-world websites like Netflix. This helps reinforce alignment, spacing, and layout structuring using Flexbox properties is created successfully.
